@@ -64,7 +64,7 @@ It includes:
 
 ---
 
-#### [Full_regime_integrations_and_plots.ipynb](Full_regime_integrations_and_plots.ipynb])  
+#### [Full_regime_integrations_and_plots.ipynb](Full_regime_integrations_and_plots.ipynb)  
 This notebook provides an end-to-end example combining multiple dynamical regimes.
 
 It illustrates:
