@@ -39,7 +39,7 @@ The repository contains three main notebooks, each addressing a different aspect
 
 ---
 
-#### Freeze_out_and_washout.ipynb  
+#### [Freeze_out_and_washout.ipynb](Freeze_out_and_washout.ipynb)    
 This notebook focuses on the numerical behavior of the coupled equations in the freeze-out regime, where interaction rates become inefficient compared to the expansion of the system.
 
 It includes:
@@ -51,7 +51,7 @@ It includes:
 
 ---
 
-#### Asymmetry_generation.ipynb  
+#### [Asymmetry_generation.ipynb](Asymmetry_generation.ipynb)  
 This notebook explores the generation of an asymmetry through competing dynamical processes.
 
 It includes:
@@ -64,7 +64,7 @@ It includes:
 
 ---
 
-#### Full_regime_integrations_and_plots.ipynb  
+#### [Full_regime_integrations_and_plots.ipynb](Full_regime_integrations_and_plots.ipynb])  
 This notebook provides an end-to-end example combining multiple dynamical regimes.
 
 It illustrates:
